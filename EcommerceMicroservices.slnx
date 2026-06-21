@@ -2,4 +2,5 @@
   <Project Path="CatalogService/CatalogService.csproj" />
   <Project Path="EventContracts/EventContracts.csproj" />
   <Project Path="InventoryService/InventoryService.csproj" />
+  <Project Path="OrdersService/OrdersService.csproj" />
 </Solution>
